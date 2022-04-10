@@ -2,9 +2,8 @@
 
 ## Hey 👋, This is Christian
 
-[![Github Badge](https://img.shields.io/badge/-BlankJr-grey?style=flat&logo=github&logoColor=white&link=https://github.com/BlankJr/)](https://www.github.com/BlankJr/) <p align='left'>I'm a Computer Science and Engineering Student</p>
+[![Github Badge](https://img.shields.io/badge/-BlankJr-grey?style=flat&logo=github&logoColor=white&link=https://github.com/BlankJr/)](https://www.github.com/BlankJr/) <p align='left'>I'm a Computer Science Student</p>
 
-## I'm Computer Science Student
 
 -  :brain: I’m currently learning React, React-Native, Kubernetes
 -  :busts_in_silhouette: I’m looking to contribute to open source
