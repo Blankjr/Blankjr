@@ -1,16 +1,16 @@
-### Hi there 👋
+![Pencil spinning GIF](https://media.giphy.com/media/10I54Pr7nbGrAs/giphy.gif)
 
-<!--
-**Blankjr/Blankjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey 👋, This is Christian
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-BlankJr-grey?style=flat&logo=github&logoColor=white&link=https://github.com/BlankJr/)](https://www.github.com/BlankJr/) <p align='left'>I'm a Computer Science and Engineering Student</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm Computer Science Student
+
+-  :brain: I’m currently learning React, React-Native, Kubernetes
+-  :busts_in_silhouette: I’m looking to contribute to open source
+-  :chart_with_upwards_trend: Contribute more to Open Source projects and learn as much as I can
+-  :cyclone: I love to watch anime and automate stuff
+
+## Some of my Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlankJr&layout=compact)](
