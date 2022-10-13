@@ -22,8 +22,15 @@
 <div align="center">
 <h2>Some of my Github Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlankJr&layout=compact&line_height=21&hide_border=true&theme=nord)
-
+<!-- Github Stats -->
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Blankjr&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord&hide=stars"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blankjr&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+    </tr>
+  </table>
+</div>
 
 <details>
 <summary><samp><b>More Info</b></samp></summary>
@@ -32,15 +39,14 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://gitlab.com/Blankjr">gitlab</a>]
-    [<a href="https://matrix.to/#/@blankjr:matrix.org">matrix</a>]
     [<a href="mailto:blankjr.me@gmail.com">e-mail</a>]
+    [<a href="https://gitlab.com/Blankjr">gitlab</a>]
   </samp>
 </p>
 
 <h2></h2><br>
   <div>
-    <p>:brain: I’m currently learning NextJS, React-Native, Go</p>
+    <p>:brain: I’m currently learning NextJS, React-Native, natural language processing</p>
     <p>:busts_in_silhouette: I’m looking to contribute to open source</p>
     :cyclone: I love to watch anime and automate stuff</li>
   </div>
